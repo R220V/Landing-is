@@ -1,0 +1,40 @@
+
+.textt{
+	color: purple;
+	font-size: 20px;
+}
+.block-gray{
+	background-color: rgba(113, 114, 111, 1);
+	height: 50px;
+}
+.block-red{
+	background-color: rgb(131, 8, 8);
+	height:60px;
+
+}
+.block-yellow{
+
+background-color: yellow;
+height: 300px;
+
+/* padding-bottom: 20px; */
+
+}
+.block-yellow-item{
+		display: inline-block;
+	background-color: teal;
+	height:30px;
+	width: 30px;
+	
+}
+.block-green{
+	background-color: orange;
+
+
+}
+.block-padding{
+
+margin-right: 20px;
+	padding-left: 30px;
+padding-top: 30px;
+}
