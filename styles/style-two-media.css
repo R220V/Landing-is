@@ -47,6 +47,7 @@ body {
 .audio {
   width: 100%;
   margin-top: 16px;
+  padding-bottom: 15px;
 }
 .setlist-title {
   text-align: center;
